@@ -17,7 +17,7 @@ https://github.com/Alejandro-Ramos/FreeAG
 Q: Is the game usable?
 
 A: Not yet. I'm planning on making at least one commit every day so that the
-game is constantly worked on.
+game is constantly worked on. **Sure you are
 
 
 ### MAINTAINERS
